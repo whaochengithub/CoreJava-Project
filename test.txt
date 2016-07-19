@@ -1,0 +1,13 @@
+a     一
+ab    娘
+abc   我
+aac   是
+acc   测
+ade   个
+adf   大
+agh   他
+art   的   
+bac   数
+bef   据
+bdd   可
+caf   以
